@@ -1,6 +1,6 @@
 Hello there, i'm **Akan**.
 
-it's just computer stuff here.
+it's just computer stuff here. 💻
 
 <details>
   <summary>More...</summary>
