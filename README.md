@@ -1,8 +1,8 @@
-Hello there, i'm Akan.
+Hello there, i'm **Akan**.
 
-I'll fill here later.
+it's just computer stuff here.
 
 <details>
   <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=aknakan">
+  <img src="https://github-readme-stats.vercel.app/api?username=aknakan&theme=dark">
 </details>
